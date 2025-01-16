@@ -1,0 +1,37 @@
+{
+  "id": "4448973",
+  "name": "text",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "201638",
+      "name": "编辑",
+      "font_class": "bianji",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "4766951",
+      "name": "heart",
+      "font_class": "heart",
+      "unicode": "e7df",
+      "unicode_decimal": 59359
+    },
+    {
+      "icon_id": "34452990",
+      "name": "delete",
+      "font_class": "delete",
+      "unicode": "e839",
+      "unicode_decimal": 59449
+    },
+    {
+      "icon_id": "4029831",
+      "name": "set",
+      "font_class": "set",
+      "unicode": "e65d",
+      "unicode_decimal": 58973
+    }
+  ]
+}

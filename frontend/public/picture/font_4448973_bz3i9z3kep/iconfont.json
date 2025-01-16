@@ -1,0 +1,16 @@
+{
+  "id": "4448973",
+  "name": "text",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "39360379",
+      "name": "反馈",
+      "font_class": "a-bianzu29",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    }
+  ]
+}
