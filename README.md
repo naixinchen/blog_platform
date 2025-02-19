@@ -27,15 +27,20 @@ This project is a multi-user blogging platform built with **React** and **Vite**
    git clone https://github.com/naixinchen/blog_platform.git
    cd blog_platform
    ```
-2. Install dependencies:
+2. Start the service:
    ```bash
-   npm install
+   cd backend
+   pnpm install
+   pnpm start
    ```
-3. Start the development server:
+3. Start the clint:
    ```bash
-   npm run dev
+   cd ..
+   cd frontend
+   pnpm install
+   pnpm run dev
    ```
-4. Open the application in your browser at `http://localhost:3000`.
+4. Open the application in your browser at `http://localhost:5173`.
 
 ## **Usage**
 1. **Registration and Login**: Create a user account or log in with an existing account.  
