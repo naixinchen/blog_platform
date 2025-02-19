@@ -24,7 +24,7 @@ This project is a multi-user blogging platform built with **React** and **Vite**
 ### **Steps**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/naixin1224/blog_platform.git
+   git clone https://github.com/naixinchen/blog_platform.git
    cd blog_platform
    ```
 2. Install dependencies:
